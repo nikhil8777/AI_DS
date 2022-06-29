@@ -16,13 +16,16 @@ public class Mavenproject1_v2 {
       int num1 = 15, num2 = 25, sum;
       int num3 = 15, num4 = 25, sub;
       int num5 = 15, num6 = 25, mul;
+      int num7 = 15, num8 = 25, div;
       sum = num1 + num2;
       sub = num3 - num4;
       mul = num5 * num6;
+      div = num7 * num8;
 
       System.out.println("Sum of these numbers: "+sum);
       System.out.println("sub of these numbers: "+sub);
       System.out.println("Mul of these numbers: "+mul);
+      System.out.println("div of these numbers: "+div);
    }
 }
 
